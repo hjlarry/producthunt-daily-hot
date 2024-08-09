@@ -7,7 +7,7 @@
 
 Product Hunt Daily Hot is a GitHub Action-based automation tool that generates a daily Markdown file summarizing the top products from Product Hunt and automatically commits it to a GitHub repository. The project aims to help users quickly view the daily Product Hunt leaderboard and provide more detailed product information.
 
- [🌐 View here](https://decohack.com/category/producthunt/https://decohack.com/category/producthunt/).
+ [🌐 View here](https://decohack.com/category/producthunt/).
 
 ## Preview
 
